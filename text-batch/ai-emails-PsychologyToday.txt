@@ -1,0 +1,35 @@
+ psychologytoday.com
+What's behind that “ick” feeling we get when reading AI writing.
+Justin Gregg Ph.D.
+7–9 minutes
+
+In February 2023, Vanderbilt University’s Peabody School sent an email to students in the wake of a shooting at Michigan State that killed three people. The email was meant to reassure students that the Peabody campus was doing everything it could to create a safe environment, and were keen to promote a “culture of care on our campus ...through building strong relationships with one another.” In tiny print at the end of the email were the words, “Paraphrase from OpenAI's ChatGPT AI language model, personal communication, February 15, 2023.”
+
+The email had been written by an AI.
+
+The response from the student body was immediate; they were outraged. The irony of a message about the importance of human connection having been penned by an inhuman AI was insulting. Vanderbilt’s Dean of Education and Human Development, Camilla Benow, was apologetic, stating that she was “deeply troubled that a communication from my administration so missed the crucial need for personal connection and empathy during a time of tragedy.”
+
+AI generated emails like this are more than just in bad taste or a sign of poor judgment. They trigger a deep, emotional response in us.
+
+I have been ruminating on this topic because, in recent weeks, I've received emails and read blog posts from friends and colleagues that bear the telltale signs of having been written by ChatGPT. The writing often contains unexpected bolding of random phrases. It often features bulleted lists and is littered with random emojis. Beyond these obvious signs, AI-written prose has a tone that is subtle, but recognizable. One analysis of AI writing shows that “AI text was found to employ a higher number of conjuncts, adjectival modifiers, and direct objects, whereas human text utilized more object prepositions and prepositional modifiers." (Georgiou, 2024) Another study found that human-written text has more “scattered sentence length distributions, more variety of vocabulary, a distinct use of dependency and constituent types, shorter constituents, and more optimized dependency distances." (Muñoz-Ortiz, Gómez-Rodríguez, & Vilares, 2024) We might not be able to recognize all these subtle linguistic differences, but we can feel them when reading AI text.
+
+Once we recognize writing that was supposed to be written by a friend/colleague as AI-generated, it creates an unpleasant feeling in our minds. As Georg von Richthofen, senior researcher at the Alexander von Humboldt Institute for Internet and Society describes it, an “unintended consequence of using AI for your emails is that it can trigger dissonance both on the side of the sender and of the receiver.” If the AI-generated writing does not match the way the person sending the email usually speaks or writes, we find this unnerving. Our minds race, trying to think of why this discrepancy exists. Perhaps the person is angry with us? Maybe they had a stroke? Our minds flag the dissonance as an indication of a problem.
+
+Perhaps more unsettling, von Richthofen points out that an AI-written email generates a feeling of detachment. If we determine that the sender has not taken the time to write the email themselves, then we assume they don’t really care about us. It’s this perceived detachment that made the Vanderbilt students so angry. Outsourcing your empathy to an AI when trying to comfort your student body after a tragedy suggests a kind of callousness. As Madeleine Holden wrote, “When you outsource the thinking to AI, you outsource the care. Your communication becomes empty, and your relationships hollow out.”
+
+But it gets worse: The dissonance and detachment we feel when reading AI-generated writing from a friend or family member can devolve into an even more tragic psychological response. Human relationships are built on an understanding that each party has a human mind that is filled with similar cognitive capacities: the ability to suffer, to feel pain and pleasure, to think, to sense, to rationalize, to judge, to want, intend, and desire. Human language evolved as a means for us to talk about and convey these internal mental states during the course of a conversation. Email conversation, much like speech, is a medium in which this mind-to-mind connection is intended to occur.
+
+When an AI is used to generate the words used in an email that is otherwise meant to connect with a friend or colleague, the ancient socio-cognitive foundation upon which human conversation is built is shattered. AI-generated prose is a signal that you, the person using AI to facilitate communication, might not value the thoughts and feelings of the person reading your AI-generated text. You are preventing a real mind-to-mind connection by using AI as a barrier. This process fits neatly under the definition of dehumanization. Dehumanization is the “denial of full humanness to others" (Haslam, 2006). Using an AI to engage socially with another human signals that you do not really value their humanness (i.e., their mind/thoughts/feelings) enough to bother using your own words to engage with them. This purposeful, calculated detachment from the expected person-to-person exchange—this meeting of the minds—strips them of their human dignity.
+
+At least, that’s how it feels to me when I read AI-written slop written by someone with whom I have a relationship in the real world. I don’t have this feeling as strongly when reading marketing or advertising copy, which is often AI-generated these days. Or grant proposals, scientific papers, or even fiction written by AI, the reason being that these were meant to be information dumps, not two-way conversations. So I have some tolerance for AI prose in these cases. Do I want to read AI-generated words for these things? Not really. And absolutely not when it comes to fiction. But that's not because I feel dehumanized; I am just starting to get annoyed with the slop.
+
+It will inevitably be the case that AI will improve at writing prose that sneaks past our AI-writing detectors. And surely I have already read plenty of things that were AI-generated that I never clocked as being artificial. But there will always be a danger in using AI to write a message to your friends, family, or anyone who is expecting to hear real words of human connection. If you get caught out, like Vanderbilt did, you will have done more than simply betrayed people’s trust in you. You will have dehumanized them.
+
+References
+
+Georgiou, G. P. (2024). Differentiating between human-written and AI-generated texts using linguistic features automatically extracted from an online computational tool. arXiv preprint arXiv:2407.03646.
+
+Muñoz-Ortiz, A., Gómez-Rodríguez, C., & Vilares, D. (2024). Contrasting linguistic patterns in human and llm-generated news text. Artificial Intelligence Review, 57(10), 265.
+
+Haslam, N. (2006). Dehumanization: An integrative review. Personality and social psychology review, 10(3), 252-264.
+

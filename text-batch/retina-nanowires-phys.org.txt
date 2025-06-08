@@ -1,0 +1,29 @@
+ phys.org
+Retinal prosthesis woven from tellurium nanowires partially restores vision in blind mice
+Bob Yirka
+4–5 minutes
+Retinal prosthesis weaved with nanowires partially restores vision in blind mice
+A next-generation nanoprosthesis that restores and enhances vision. Credit: Science (2025). DOI: 10.1126/science.adu2987
+
+A team from Fudan University, the Shanghai Institute of Technical Physics, the Beijing University of Posts and Telecommunications and Shaoxin Laboratory, all in China, has developed a retinal prosthesis woven from metal nanowires that partially restored vision in blind mice.
+
+In their paper published in the journal Science, the group describes how they created tellurium nanowires and interlaced them to create a retinal prosthesis. Eduardo Fernández, with University Miguel Hernández, in Spain, has published a Perspective piece in the same journal issue outlining the work done by the team on this new effort.
+
+Finding a way to cure blindness has been a major goal for scientists for many years, and such efforts have paid off for some types of blindness, such as those caused by cataracts. Other types of blindness associated with damage to the retina, however, have proven too difficult to overcome in most cases. For this research, the team in China tried a new approach to treating such types of blindness by building a mesh out of a semiconductor and affixing it to the back of the eye, where it could send signals to the optic nerve.
+
+The work involved fabricating nanowires out of tellurium and then interlacing them to form a mesh. Tellurium was chosen for the project because it can directly convert light energy into electrical energy under light irradiation without the need for an additional power supply. The electrical energy produced was then funneled to the optic nerve where it was processed by the brain.
+
+Testing involved implanting the nanoprostheses in the eyes of mice with bioengineered blindness. To test the effectiveness of the implants, the research team conducted imaging and electrophysiological recording of the nerves leading into the optic nerves and signals that were carried to the brain and found activity not present in a control group. They also found that the implants resulted in restored pupil reflexes along with neuron firing, which were also not present in a control group. The implanted mice were also able to turn toward an LED light and to respond to pattern testing.
+
+The prosthesis also allowed for processing near-infrared light, which, the researchers suggest, could lead to the development of devices that could provide sharper color contrast and better night vision.
+
+More information: Shuiyuan Wang et al, Tellurium nanowire retinal nanoprosthesis improves vision in models of blindness, Science (2025). DOI: 10.1126/science.adu2987
+
+Eduardo Fernández, Nanowires replace lost retinal cells, Science (2025). DOI: 10.1126/science.ady4439
+
+© 2025 Science X Network
+
+Citation: Retinal prosthesis woven from tellurium nanowires partially restores vision in blind mice (2025, June 6) retrieved 7 June 2025 from https://phys.org/news/2025-06-retinal-prosthesis-woven-tellurium-nanowires.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no part may be reproduced without the written permission. The content is provided for information purposes only.
+
