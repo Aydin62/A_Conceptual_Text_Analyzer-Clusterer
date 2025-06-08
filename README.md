@@ -35,7 +35,7 @@ a.3. Is capable of working with both single docs and batches <br><br>
 
 ### (B) Working with single documents
 
-b.1. Function `analyze_txt` integrates the pipeline for *single* docs as: <br><br>
+b.1. Function `analyze_txt` integrates the pipeline for *single* docs as: <br>
 
 `filepath` → `read_txt` → `nlp` → `token_ext` → `concept_matcher` → `concept_aggregator`
 <br><br>
